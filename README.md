@@ -49,6 +49,7 @@ sudo make install
 3. Clone & Build the Project
 ```bash
  git clone https://github.com/shabbirraghib/Behavior-Tree.git
+
 cd Behavior-Tree
 mkdir build && cd build
 cmake ..
